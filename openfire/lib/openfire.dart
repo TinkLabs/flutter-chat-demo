@@ -1,0 +1,21 @@
+library openfire;
+
+export 'core.dart';
+export 'enums.dart';
+export 'websocket.dart';
+export 'bosh.dart';
+export 'plugins/administration.dart';
+export 'plugins/bookmark.dart';
+export 'plugins/caps.dart';
+export 'plugins/chat-notifications.dart';
+export 'plugins/disco.dart';
+export 'plugins/last-activity.dart';
+export 'plugins/muc.dart';
+export 'plugins/pep.dart';
+export 'plugins/plugins.dart';
+export 'plugins/privacy.dart';
+export 'plugins/pubsub.dart';
+export 'plugins/private-storage.dart';
+export 'plugins/register.dart';
+export 'plugins/roster.dart';
+export 'plugins/vcard-temp.dart';
